@@ -29,7 +29,7 @@
     }
     console.log(result+ " cubic feet ");
 
-    //Brick Calculator
+    //brickCalculator
 
     function brickCalculator(floor){
         var floorAbsolute = Math.abs(floor);
